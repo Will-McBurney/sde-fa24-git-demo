@@ -5,5 +5,5 @@ HW3: Design and Refactoring
 HW4: Business Logic
 HW5: Data Persistence
 HW6: CRUD Application
-HW7: New Assignment
+HW7: New Assignment haha jk
 
