@@ -1,6 +1,7 @@
-HW1: Responding to Change
+HW1: Java Stuff
 HW2: JUnit Testing
 HW3: Design and Refactoring
 HW4: Business Logic
 HW5: Data Persistence
 HW6: CRUD Application
+HW7: New Assignment
