@@ -1,4 +1,5 @@
-HW1: Responding to Change
+HW1A: Java Skills Check
+HW1B: Responding to Change
 HW2: JUnit Testing
 HW3: Design and Refactoring
 HW4: Business Logic
